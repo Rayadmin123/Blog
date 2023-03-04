@@ -38,30 +38,35 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - fengrui.asia
+      - api.fengrui.asia
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - fengrui.asia
+      - api.fengrui.asia
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - fengrui.asia
+      - api.fengrui.asia
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - fengrui.asia
+      - api.fengrui.asia
   - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
+      - api.fengrui.asia
   - name: 🛑 全球拦截
     type: select
     proxies:
@@ -80,6 +85,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - api.fengrui.asia
       - fengrui.asia
   - name: 谷歌专用
     type: select
